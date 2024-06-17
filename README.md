@@ -1,5 +1,5 @@
-# PRODIGY_TrackCode_TaskNumber
-# Professional Navigation Menu with Search
+# PRODIGY_TrackCode_TaskNumber 1
+# Navigation Menu
 
 This project implements a professional and interactive navigation menu that remains fixed at the top of the page. It includes a search bar, menu items, and dynamic behaviors such as changing the background color on scroll and changing the font color on hover.
 
